@@ -1,0 +1,2 @@
+# Minecraft-LogMonitor
+マイクラサーバーのログをPushoverで通知するアレ
